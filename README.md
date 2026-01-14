@@ -1,3 +1,6 @@
+Public GPG Key Fingerprint `668BD7048B4069B1898A64DFD9B76A3FE1261FDA`
+
+GPG Public Key Download on [OpenPGP Key Server](https://keys.openpgp.org/vks/v1/by-fingerprint/668BD7048B4069B1898A64DFD9B76A3FE1261FDA)
 # Hi There! 👋
 
 My name is Aeybel Varghese, an Embedded Engineer specializing in electronics and embedded systems. I graduated with a degree in Electrical and Computer Engineering (ECE) from the University of Texas at Austin 🤘. I enjoy designing hardware and writing embedded software, avid tinkerer, and certified hater of academic journals that paywall!!!!
