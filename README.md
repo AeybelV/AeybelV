@@ -1,6 +1,6 @@
 # Hi There!
 
-My name is Aeybel Varghese, an Embedded Engineer specializing in electronics and embedded systems. I graduated with a degree in Electrical and Computer Engineering (ECE) from the University of Texas at Austin 🤘. I enjoy designing hardware and writing embedded software, avid tinkerer, and chronically online.
+My name is Aeybel Varghese, an Embedded Engineer specializing in computer architecture and embedded systems. I graduated with a degree in Electrical and Computer Engineering (ECE) from the University of Texas at Austin 🤘. I enjoy designing hardware and writing embedded software, avid tinkerer, and chronically online.
 
 What I Do:
 - Embedded Systems: Firmware development, driver development, embedded Linux.
